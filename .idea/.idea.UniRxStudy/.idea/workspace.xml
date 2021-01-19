@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ca83f09-84e1-4baf-a7fa-d2e54fa1741d" name="Default Changelist" comment="" />
+    <list default="true" id="3ca83f09-84e1-4baf-a7fa-d2e54fa1741d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ExUniRxWithUniTask2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UniRxStudy/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ExUniRxWithUniTask.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ExUniRxWithUniTask.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExReactiveCollection.cs" root0="FORCE_HIGHLIGHTING" />
@@ -17,19 +48,26 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/RxTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ExReactiveCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ExUniRxWithUniTask.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ExUniRxWithUniTask2.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1nEXRpSM1hfWGWd9ciCEc2QsSog" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991118" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30017763" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,10 +81,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="15260">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="15260" />
+      <option name="pid" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -63,6 +101,7 @@
       <updated>1610956218128</updated>
       <workItem from="1610956226783" duration="1007000" />
       <workItem from="1611036105045" duration="6512000" />
+      <workItem from="1611070376380" duration="1741000" />
     </task>
     <servers />
   </component>
@@ -71,7 +110,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -139,5 +190,9 @@
       <screen x="-1200" y="-349" width="1200" height="1880" />
     </state>
     <state width="1157" height="711" key="GridCell.Tab.3.right/0.0.1920.1160/-1200.-349.1200.1880@-1200.-349.1200.1880" timestamp="1611045748858" />
+    <state x="464" y="162" width="672" height="678" key="search.everywhere.popup" timestamp="1611070763265">
+      <screen x="0" y="0" width="1600" height="839" />
+    </state>
+    <state x="464" y="162" width="672" height="678" key="search.everywhere.popup/0.0.1600.839@0.0.1600.839" timestamp="1611070763265" />
   </component>
 </project>

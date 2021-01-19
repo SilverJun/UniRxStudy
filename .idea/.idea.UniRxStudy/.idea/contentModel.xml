@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\SHIFTUP\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\SHIFTUP\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_UniRxTestbed.2045038898.00" t="ExcludeRecursive" />
-    <e p="C:\WORKSPACE\TEST\UniRxTestbed" t="IncludeRecursive">
+    <e p="C:\Users\jange\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jange\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_UniRxStudy.-1368987341.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jange\Project\UniRxStudy" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Plugins" t="Include">
@@ -468,6 +468,7 @@
         <e p="Scripts" t="Include">
           <e p="ExReactiveCollection.cs" t="Include" />
           <e p="ExUniRxWithUniTask.cs" t="Include" />
+          <e p="ExUniRxWithUniTask2.cs" t="Include" />
           <e p="RxTest.cs" t="Include" />
         </e>
       </e>
@@ -476,7 +477,7 @@
       <e p="Temp\bin" t="ExcludeRecursive" />
       <e p="UniRx.csproj" t="IncludeRecursive" />
       <e p="UniRx.Examples.csproj" t="IncludeRecursive" />
-      <e p="UniRxTestbed.sln" t="IncludeFlat" />
+      <e p="UniRxStudy.sln" t="IncludeFlat" />
       <e p="UniTask.Addressables.csproj" t="IncludeRecursive" />
       <e p="UniTask.csproj" t="IncludeRecursive" />
       <e p="UniTask.DOTween.csproj" t="IncludeRecursive" />
