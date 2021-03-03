@@ -6,10 +6,9 @@ using UnityEngine;
 
 public class RxTest : MonoBehaviour
 {
-    private Subject<Unit> _testStream = new Subject<Unit>();
-    
-    // Start is called before the first frame update
-    void Start()
+    public static Subject<Unit> _testStream = new Subject<Unit>();
+
+    private void Awake()
     {
         _testStream.Subscribe(unit =>
             {
@@ -22,19 +21,6 @@ public class RxTest : MonoBehaviour
             () =>
             {
                 Debug.Log($"Complete");
-            });
-    }
-
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            _testStream.OnNext(Unit.Default);
-        }
-
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            _testStream.OnError(new Exception("E has been pressed."));
-        }
+            });  // .AddTo(this);
     }
 }
